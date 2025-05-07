@@ -1,0 +1,20 @@
+[gd_scene load_steps=7 format=3 uid="uid://blkwlvb4ola5"]
+
+[ext_resource type="Script" uid="uid://63vqi58dnaka" path="res://scenes/game_elements/props/flowerbed/components/flowerbed.gd" id="1_af3bj"]
+[ext_resource type="Texture2D" uid="uid://b4gjylrs0g2xx" path="res://scenes/game_elements/props/decoration/crochenthemum/ND_Crochenthemum_01.png" id="2_ni1ug"]
+[ext_resource type="Texture2D" uid="uid://c8q2r1dsn1m7w" path="res://scenes/game_elements/props/decoration/crochenthemum/ND_Crochenthemum_02.png" id="3_ixjyg"]
+[ext_resource type="Texture2D" uid="uid://72tsg0sif7sq" path="res://scenes/game_elements/props/decoration/mushroom/ND_Mushroom_Blue_01.png" id="4_8graq"]
+[ext_resource type="Texture2D" uid="uid://dt4lx6310tcoy" path="res://scenes/game_elements/props/decoration/lcjt-flower.png" id="5_ixjyg"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_ni1ug"]
+size = Vector2(1856, 1016)
+
+[node name="Flowerbed" type="Area2D"]
+y_sort_enabled = true
+script = ExtResource("1_af3bj")
+flowers = Array[Texture2D]([ExtResource("2_ni1ug"), ExtResource("3_ixjyg"), ExtResource("4_8graq"), ExtResource("5_ixjyg")])
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(960, 540)
+shape = SubResource("RectangleShape2D_ni1ug")
+disabled = true
