@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://u1ianwyujxu0"
+path="res://.godot/imported/template_checkpoint.dialogue-2bf531578d4b4c5423203ac5c1671a80.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/bagman/1_bagman_stealth/template_stealth_components/template_checkpoint.dialogue"
+dest_files=["res://.godot/imported/template_checkpoint.dialogue-2bf531578d4b4c5423203ac5c1671a80.tres"]
+
+[params]
+
+defaults=true

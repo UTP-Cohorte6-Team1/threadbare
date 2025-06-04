@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://g0cionaww0pb"
+path="res://.godot/imported/template_sequence_puzzle.dialogue-f52a423198fc9de47225632fd5403c90.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/bagman/3_template_sequence_puzzle/template_sequence_puzzle.dialogue"
+dest_files=["res://.godot/imported/template_sequence_puzzle.dialogue-f52a423198fc9de47225632fd5403c90.tres"]
+
+[params]
+
+defaults=true
