@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://b6ahhqu2ts4r"
+path="res://.godot/imported/bagman_intro.dialogue-9a03da04ce44741783fb267582acba07.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/bagman/0_bagman_intro/bagman_intro_components/bagman_intro.dialogue"
+dest_files=["res://.godot/imported/bagman_intro.dialogue-9a03da04ce44741783fb267582acba07.tres"]
+
+[params]
+
+defaults=true
