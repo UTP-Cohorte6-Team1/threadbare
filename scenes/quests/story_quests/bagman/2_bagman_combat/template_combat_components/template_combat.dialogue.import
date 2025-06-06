@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://cabg6257u10mn"
+path="res://.godot/imported/template_combat.dialogue-6407ab7820e9ad492cc6fc980e91d48c.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/bagman/2_bagman_combat/template_combat_components/template_combat.dialogue"
+dest_files=["res://.godot/imported/template_combat.dialogue-6407ab7820e9ad492cc6fc980e91d48c.tres"]
+
+[params]
+
+defaults=true

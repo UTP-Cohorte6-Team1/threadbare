@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://rbxsyolfgd0n"
+path="res://.godot/imported/bagman_stealth.dialogue-505514291f3e83474932c5bc51de76bf.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/bagman/1_bagman_stealth/bagman_stealth_components/bagman_stealth.dialogue"
+dest_files=["res://.godot/imported/bagman_stealth.dialogue-505514291f3e83474932c5bc51de76bf.tres"]
+
+[params]
+
+defaults=true
